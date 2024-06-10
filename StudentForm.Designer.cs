@@ -162,12 +162,12 @@
             this.dateTimePicker1.Size = new System.Drawing.Size(196, 22);
             this.dateTimePicker1.TabIndex = 14;
             // 
-            // AdminPage
+            // StudentForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.ClientSize = new System.Drawing.Size(800, 558);
+            this.ClientSize = new System.Drawing.Size(800, 348);
             this.Controls.Add(this.dateTimePicker1);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.button1);
@@ -182,7 +182,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.zz);
-            this.Name = "AdminPage";
+            this.Name = "StudentForm";
             this.Text = "AdminPage";
             this.ResumeLayout(false);
             this.PerformLayout();

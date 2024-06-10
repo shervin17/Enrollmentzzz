@@ -29,7 +29,7 @@ namespace kkjnkhk_
             // add new student 
 
             string firstname = fname_field.Text;
-            string lastname = fname_field.Text;
+            string lastname = lastname_field.Text;
             string middlename= midname_field.Text;
             DateTime bday= dateTimePicker1.Value; 
             string address= address_field.Text;
